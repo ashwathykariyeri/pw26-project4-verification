@@ -1,0 +1,9 @@
+ChatGPT share URL: https://chatgpt.com/share/6af350c7-9b88-83eb-a720-632d7d70b7a2
+
+Use ChatGPT's Share control to generate a link. Preview the exact content
+and audience before sharing. If this conversation includes unrelated material,
+create a project-only conversation and paste the proposal context, then discuss
+the research questions, sampling, evidence coding and initial implementation
+there. Label any summary of earlier work as a summary.
+Open the generated link in a signed-out browser window to verify that the
+instructor can access it, then paste the URL here and rezip the submission.

@@ -1,0 +1,11 @@
+Is my code technically complete and publication ready for publication in the selected journal?
+
+Technically complete for the narrower descriptive analysis: Yes.
+Publication ready for Telecommunications Policy: No.
+Technically complete for the original deployment-control question: No.
+
+The frozen live-source sample contains 300 distinct repositories across two 150-repository cohorts. The offline replay executed every code cell, preserved the sample, and reproduced all four manuscript tables byte for byte. The run reported zero review validation issues. These checks establish code execution and reproducibility.
+
+Developer evidence covers 14 repositories and corporate parent evidence covers three. Full weight access, comparable hardware requirements, and independently usable hosting were not verified across the sample. Provider listings show what appears in a directory. Independent evidence review is still required. The narrowed descriptive findings can move into write-up, subject to course approval of the scope. This assessment does not certify journal readiness.
+
+Target journal: Telecommunications Policy

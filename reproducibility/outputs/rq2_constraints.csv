@@ -1,0 +1,9 @@
+cohort,condition,sample_n,weights_status_known_n,verified_downloadable_n,known_condition_n,positive_n,complete_case_pct,lower_pct,upper_pct
+stratified,restrictive_licence,150,0,0,0,0,,,
+stratified,vram_gt_16,150,0,0,0,0,,,
+stratified,vram_gt_24,150,0,0,0,0,,,
+stratified,vram_gt_48,150,0,0,0,0,,,
+top_downloads,restrictive_licence,150,0,0,0,0,,,
+top_downloads,vram_gt_16,150,0,0,0,0,,,
+top_downloads,vram_gt_24,150,0,0,0,0,,,
+top_downloads,vram_gt_48,150,0,0,0,0,,,

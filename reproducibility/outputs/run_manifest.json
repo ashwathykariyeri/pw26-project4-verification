@@ -1,0 +1,36 @@
+{
+  "mode": "live",
+  "technical_workflow": "Analysis workflow ran and passed consistency checks.",
+  "empirical_status": "Inspect coverage and audit outputs; independent evidence review is required.",
+  "publication_ready": false,
+  "publication_status": "A real, independently reviewed analysis and a complete manuscript are required.",
+  "records_with_revision": 300,
+  "model_card_http_status_counts": {
+    "200": 286,
+    "404": 14
+  },
+  "developer_evidence_n": 14,
+  "ownership_evidence_n": 3,
+  "weight_evidence_n": 0,
+  "documented_route_n": 3,
+  "resolved_lineage_n": 1,
+  "sample_unique_repositories": 300,
+  "cohort_overlap_n": 0,
+  "cohort_n_each": 150,
+  "seed": 42,
+  "frame_eligible_n": 436004,
+  "catalogue_capture": {
+    "started_utc": "2026-11-10T16:33:29.269764+00:00",
+    "source": "https://huggingface.co/api/models?pipeline_tag=text-generation&sort=downloads&direction=-1&limit=1000&full=false",
+    "finished_utc": "2026-11-10T16:36:48.790221+00:00",
+    "pages": 437
+  },
+  "reviews_with_issues": 0,
+  "inputs_sha256": {
+    "raw/catalogue.json": "6a7b9ae6e87d8eec838c9375a2207f1a3c219e524ee33ae485d93254f8b25d63",
+    "raw/run_model_observations.json": "b3f402de1f591b5044a53e1990b287d0f50c0844a76f2e7aa268a0ded0860d95",
+    "review_lineage.csv": "c020f5b01ff9030d883615986179ea791299e222e7e80bc75c7235a8dd0f5ef5",
+    "review_models.csv": "91f932e65d58581700a220b0c8f28539ce5349a5dc6e59c2bbcd1b9254ebec98",
+    "review_routes.csv": "ae91bbd3219539ae0ebdf4fa127174ca3c2f56006a18f2843fb37ff878aac17f"
+  }
+}

@@ -1,0 +1,11 @@
+cohort,dimension,sample_n,covered_n,unique_entities,hhi,effective_entities,top_entity,top_entity_pct
+stratified,verified_developer,150,2,2,0.5,2.0,ArtusDev,50.0
+stratified,verified_corporate_parent,150,0,0,,,,
+stratified,documented_managed_host,150,0,0,,,,
+stratified,documented_independent_host,150,0,0,,,,
+stratified,declared_direct_base,150,75,80,0.014562962962962965,68.6673448626653,openai-community/gpt2,2.6667
+top_downloads,verified_developer,150,12,5,0.3194444444444444,3.130434782608696,Qwen Team,50.0
+top_downloads,verified_corporate_parent,150,3,1,1.0,1.0,Alibaba,100.0
+top_downloads,documented_managed_host,150,0,0,,,,
+top_downloads,documented_independent_host,150,0,0,,,,
+top_downloads,declared_direct_base,150,84,68,0.018140589569160995,55.12500000000001,qwen/qwen3.8-27b,5.9524

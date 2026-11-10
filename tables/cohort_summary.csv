@@ -1,0 +1,3 @@
+cohort,n,card_ok,license_tag_n,declared_base_n,distinct_declared_bases,direct_base_hhi,namespaces,namespace_hhi,gated_n,weight_http_2xx_n,weight_probe_observed_n,provider_mapping_n,listed_live_provider_n,multiple_listed_live_provider_n,distinct_listed_live_providers,listed_provider_hhi,reviewed_developer_n,reviewed_parent_n,reviewed_licence_n
+stratified,150,137,86,75,80,0.014562962962962965,145,0.0072000000000000015,2,140,142,150,3,0,1,1.0,2,0,2
+top_downloads,150,149,145,84,68,0.018140589569160995,55,0.08986666666666668,5,145,150,149,51,14,12,0.5309709940621128,12,3,14
