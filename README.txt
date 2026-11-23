@@ -2,7 +2,8 @@
 
 **PW26 Project 4 · Verification archive and replication code**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139183.svg)](https://doi.org/10.5281/zenodo.24139183)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24139183.svg)]
+https://zenodo.org/records/24139183
 
 Target journal: *Telecommunications Policy* (Elsevier)
 Course: Interdisciplinary Elective "AI, Power & Responsibility: Governing Intelligence"
